@@ -21,10 +21,7 @@ function App() {
         <button onClick={() => setCount((count) => count + 3)}>
           count is {count}
         </button>
-        <p>
-          Edit <code>Este es un ejemplo y despues vpu a subirlo</code> and save
-          to test HMR
-        </p>
+        <p>Hola Mundo</p>
       </div>
       <p className="read-the-docs">
         Click on the Vite and React logos to learn more
